@@ -15,7 +15,7 @@ export function TimelineDemo() {
               <p className="text-[21px] leading-[28px] font-bold text-[#fafdff] w-[100%] md:w-[60%] pt-[2%]">
                 HomeDecor is dedicated to setting new benchmarks in energy
                 efficiency and design with our premium aluminium entrance doors.
-                Aluminium's exceptional weather resistance and superior thermal
+                Aluminium exceptional weather resistance and superior thermal
                 and acoustic insulation make it the ideal material for robust
                 and secure entrance doors. Our focus on quality, customisation,
                 and precision engineering ensures that every product meets the

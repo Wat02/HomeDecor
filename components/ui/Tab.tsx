@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import { Tabs } from "../ui/tabs";
 
 export function TabsDemo() {

@@ -3,7 +3,6 @@ import React from "react";
 import {
   Sheet,
   SheetContent,
-  SheetDescription,
   SheetHeader,
   SheetTitle,
   SheetTrigger,
@@ -108,7 +107,7 @@ function Footer() {
                               </h2>
                               <p className="text-[14px] md:text-[16px] leading-[16px] md:leading-[20px] w-[80%] pt-[10px] text-start  ml-[0px] md:ml-[30px]  ">
                                 Have questions or need assistance? Reach out
-                                through our contact form. We're ready to help
+                                through our contact form. Where ready to help
                                 you with your aluminium door needs. Your inquiry
                                 is our priority, and our team will respond
                                 promptly to guide you every step of the way.
@@ -117,7 +116,7 @@ function Footer() {
                             <div className="flex flex-col  pt-[10px] md:pt-[0px] ">
                               <div className="flex flex-col md:flex-row gap-3 md:gap-3">
                                 <Input
-                                  placeholder="You'r name"
+                                  placeholder="Your name"
                                   className="w-[90%] md:w-[100%]"
                                 />
                                 <Input
@@ -148,7 +147,7 @@ function Footer() {
                               </div>
                               <div className="flex flex-row gap-3">
                                 <Input
-                                  placeholder="Write about you'r project "
+                                  placeholder="Write about your project "
                                   className="pl-[1rem] pr-[11rem] py-[3.5rem] md:px-52 md:py-14  "
                                 />
                               </div>

@@ -21,7 +21,7 @@ function Hero() {
               ABOUT HomeDecor
             </h2>
             <p className="text-[20px] md:text-[20px] leading-[24px] font-bold text-[#FAFDFF]  ml-[20px] w-[80%] md:w-[35%]">
-              Welcome, we're here to bring you a new standard in
+              Welcome, where here to bring you a new standard in
               energy-efficienthome solutions. We specialise in designing and
               crafting top-notch aluminium entry doors that blend impeccable
               craftsmanship with state-of-the-art engineering. Our doors are

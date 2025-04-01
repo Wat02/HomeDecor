@@ -4,7 +4,6 @@ import Hamburger from "@/public/hamburger.svg";
 import {
   Sheet,
   SheetContent,
-  SheetDescription,
   SheetHeader,
   SheetTitle,
   SheetTrigger,
