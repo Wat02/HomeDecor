@@ -107,7 +107,7 @@ function Navbar() {
           <div className="col-span-12 md:col-span-6 mt-[15px]">
             <div className="flex flex-row justify-end text-end gap-7">
               <Link href="/" className="pt-[3px]">
-                <button className="rounded-[10px]  bg-[#FEEF5E] px-6 py-3 font-bold uppercase text-black transition-all duration-300 hover:translate-x-[-4px] hover:translate-y-[-4px] hover:rounded-md hover:shadow-[4px_4px_0px_black] active:translate-x-[0px] active:translate-y-[0px] active:rounded-2xl active:shadow-none">
+                <button className="rounded-[10px]  bg-[#FEEF5E] px-6 py-3 font-bold uppercase text-black transition-all duration-300 hover:translate-x-[-4px] hover:translate-y-[-4px] hover:rounded-md hover:shadow-[4px_4px_0px_black] active:translate-x-[0px] active:translate-y-[0px] active:rounded-2xl active:shadow-none hidden md:flex">
                   Contact us
                 </button>
               </Link>

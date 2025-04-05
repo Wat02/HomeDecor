@@ -62,7 +62,7 @@ function Footer() {
                   </p>
                 </Link>
                 <Sheet>
-                  <SheetTrigger className="text-[29px] md:text-[39px] leading-[37px] md:leading-[47px] font-bold uppercase ml-[20px] underline underline-offset-8 decoration-from-font text-black  pb-[10px]">
+                  <SheetTrigger className="text-[29px] hidden md:flex md:text-[39px] leading-[37px] md:leading-[47px] font-bold uppercase ml-[20px] underline underline-offset-8 decoration-from-font text-black  pb-[10px]">
                     Contact us
                   </SheetTrigger>
                   <SheetContent
@@ -100,7 +100,7 @@ function Footer() {
                               </p>
                             </div>
                           </div>
-                          <div className="col-span-12 md:col-span-9 flex flex-col md:flex-row">
+                          <div className="col-span-12 md:col-span-9 hidden md:flex flex-col md:flex-row ">
                             <div>
                               <h2 className="text-[40px] md:text-[69px] leading-[49px] md:leading-[69px] font-black ml-[0px] md:ml-[30px] text-start md:text-start ">
                                 GET IN TOUCH

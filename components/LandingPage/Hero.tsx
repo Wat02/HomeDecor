@@ -23,10 +23,9 @@ function Hero() {
               CREATING LASTING <br /> IMPRESSIONS
             </h2>
             <div className="flex flex-row gap-10 pt-[10px]">
-              <p className="text-[16px] md:text-[17px] leading-[18px] md:leading-[20px] font-normal  ml-[20px]">
+              <p className="text-[16px] md:text-[17px] leading-[18px] md:leading-[20px] font-normal  ml-[20px] w-[50%] md:w-[35%]">
                 Our premium aluminium entry doors, designed with the finest{" "}
-                <br />
-                workmanship & engineering, is the new benchmark to energy <br />
+                workmanship & engineering, is the new benchmark to energy
                 efficiency for your home.
               </p>
               <Link href="/Product">

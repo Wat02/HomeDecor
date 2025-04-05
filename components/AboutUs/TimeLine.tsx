@@ -12,7 +12,7 @@ export function TimelineDemo() {
               <h2 className="text-[30px] md:text-[49px] leading-[34px] md:leading-[49px] font-black text-[#fafdff]">
                 OUR EXPERTISE
               </h2>
-              <p className="text-[21px] leading-[28px] font-bold text-[#fafdff] w-[100%] md:w-[60%] pt-[2%]">
+              <p className="text-[18px]md:text-[21px] leading-[20px] md:leading-[28px] font-bold text-[#fafdff] w-[90%] md:w-[60%] pt-[2%]">
                 HomeDecor is dedicated to setting new benchmarks in energy
                 efficiency and design with our premium aluminium entrance doors.
                 Aluminium exceptional weather resistance and superior thermal
@@ -35,7 +35,7 @@ export function TimelineDemo() {
               <h2 className="text-[30px] md:text-[49px] leading-[34px] md:leading-[49px] font-black text-[#fafdff]">
                 OUR INNOVATION
               </h2>
-              <p className="text-[21px] leading-[28px] font-bold text-[#fafdff]  w-[100%] md:w-[60%] pt-[2%]">
+              <p className="text-[18px]md:text-[21px] leading-[20px] md:leading-[28px] font-bold text-[#fafdff]  w-[90%] md:w-[60%] pt-[2%]">
                 Our R&D team is at the forefront of developing new technologies
                 to enhance energy efficiency, safety, and design. HomeDecor
                 commitment to innovation means we continually create new
@@ -57,7 +57,7 @@ export function TimelineDemo() {
               <h2 className="text-[30px] md:text-[49px] leading-[34px] md:leading-[49px] font-black text-[#fafdff]">
                 OUR COMMITMENT
               </h2>
-              <p className="text-[21px] leading-[28px] font-bold text-[#fafdff] w-[100%] md:w-[60%] pt-[2%]">
+              <p className="text-[18px]md:text-[21px] leading-[20px] md:leading-[28px] font-bold text-[#fafdff] w-[90%] md:w-[60%] pt-[2%]">
                 At HomeDecor, we are committed to delivering entrance doors that
                 not only enhance the beauty and security of your home but also
                 stand the test of time. Our dedication to craftsmanship,

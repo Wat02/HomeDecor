@@ -33,7 +33,7 @@ const TextParallaxContent = ({
         paddingRight: IMG_PADDING,
       }}
     >
-      <div className="relative h-[150vh] bg-no-repeat bg-center bg-cover">
+      <div className="relative h-[150vh] bg-no-repeat  bg-cover ">
         <StickyImage imgUrl={imgUrl} />
       </div>
       {children}

@@ -21,7 +21,7 @@ function Sticky() {
                         <h2 className="text-[30px] md:text-[49px] leading-[39px] md:leading-[49px] font-black text-[#070808] ml-[15px] md:ml-[0px]">
                           MODERN CONTEMPORARY DOORS
                         </h2>
-                        <p className="text-[16px] leading-[20px] font-medium text-[#000000] w-[78%] pt-[10px] pb-[30px] ml-[15px] md:ml-[0px]">
+                        <p className="text-[16px] leading-[20px] font-medium text-[#000000] w-[65%] md:w-[78%] pt-[10px] pb-[30px] ml-[15px] md:ml-[0px]">
                           We are dedicated to making your home look its best
                           with our premium aluminium entrance doors. Combining
                           contemporary design with robust engineering, we bring
@@ -30,7 +30,7 @@ function Sticky() {
                           security.
                         </p>
 
-                        <div className="flex flex-row  text-end gap-7">
+                        <div className="flex flex-row  text-end gap-7  ml-[15px] pb-[10px]">
                           <button className="rounded-[10px]  bg-[#FEEF5E] px-6 py-3 font-bold uppercase text-black transition-all duration-300 hover:translate-x-[-4px] hover:translate-y-[-4px] hover:rounded-md hover:shadow-[4px_4px_0px_black] active:translate-x-[0px] active:translate-y-[0px] active:rounded-2xl active:shadow-none">
                             Contact us
                           </button>
